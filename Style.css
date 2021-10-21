@@ -100,19 +100,9 @@ ul{
 .card{
     margin-top: 5px;
 }
-<<<<<<< Updated upstream
-=======
-    margin-left:10px
-}
+
 /*Cards*/
-*{
-    margin: 0;
-    padding: 0;
-    box-sizing: border-box;
-}
-body{
-    background:linear-gradient(to right , #a5fecb , #20bdff, #5433ff);
-}
+
 .main{
     height: 100vh;
     display: flex;
@@ -155,6 +145,3 @@ body{
     transition-delay: .2s;
     transform: translate(-50%,-5px);
 }
->>>>>>> Dread
-=======
->>>>>>> Stashed changes
