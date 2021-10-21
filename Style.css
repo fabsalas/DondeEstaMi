@@ -90,6 +90,10 @@ ul{
     margin: 10px 0;
 }
 
+.btn:hover{
+    opacity: .7;
+}
+
 
 /*CARDS*/
 
