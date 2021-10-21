@@ -90,10 +90,6 @@ ul{
     margin: 10px 0;
 }
 
-.btn:hover{
-    opacity: .7;
-}
-
 
 /*CARDS*/
 
@@ -145,3 +141,4 @@ ul{
     transition-delay: .2s;
     transform: translate(-50%,-5px);
 }
+
