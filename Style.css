@@ -60,7 +60,6 @@ ul{
 
 .nav-main ul.nav-menu{
     flex:1;
-<<<<<<< HEAD
     margin-left:20px;
     
 }
@@ -101,6 +100,7 @@ ul{
 .card{
     margin-top: 5px;
 }
+<<<<<<< Updated upstream
 =======
     margin-left:10px
 }
@@ -156,3 +156,5 @@ body{
     transform: translate(-50%,-5px);
 }
 >>>>>>> Dread
+=======
+>>>>>>> Stashed changes
